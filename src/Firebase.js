@@ -14,6 +14,5 @@ module.exports = function () {
 
     firebase.initializeApp(config);
     var database = firebase.database();
-
 	return firebase;
 };
