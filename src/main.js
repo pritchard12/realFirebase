@@ -3,7 +3,7 @@ import { Switch, Route } from 'react-router-dom'
 import App from './App';
 import Agent from './Agent.jsx';
 
-// var firebase = require("firebase/app");
+var firebase = require("firebase/app");
 // require("firebase/database");
 
 
