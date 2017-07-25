@@ -1,6 +1,4 @@
-
 import React, { Component } from 'react';
-
 
 class Template extends Component {
 
@@ -9,7 +7,6 @@ class Template extends Component {
     }
 
     render() {
-
         return ( 
                 <section className="wrapper">         
                     {/*overview start*/}
