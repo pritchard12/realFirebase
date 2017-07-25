@@ -55,13 +55,6 @@ const Routes = () => (
 // <Route path='/roster' component={Roster}/>
 export default Routes;
 
-{/* <Route component={AppShell}/>
-    <Switch>
-        <Route exact path="/" component={Login}/>
-        <Route path="/dashboard" component={AsyncDashboard(userAgent)}/>
-        <Route component={NoMatch}/>
-    </Switch> */}
-
     
 //<Router {...props}>
 // const Routes = (props) => (
